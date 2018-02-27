@@ -1,0 +1,25 @@
+{
+  "name": "biblelibrary",
+  "version": "1.0.0",
+  "description": "성경 구절 입력 프로그램입니다.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devyohan/church_tools.git"
+  },
+  "keywords": [
+    "성경"
+  ],
+  "author": "박요한",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devyohan/church_tools/issues"
+  },
+  "homepage": "https://github.com/devyohan/church_tools#readme",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
+}
