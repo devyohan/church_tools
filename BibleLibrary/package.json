@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/devyohan/church_tools#readme",
   "dependencies": {
-    "electron": "^1.8.2"
+    "electron": "^1.8.2",
+    "sqlite3": "^3.1.13"
   }
 }
