@@ -1,6 +1,6 @@
 {
   "name": "biblelibrary",
-  "version": "1.0.0",
+  "version": "0.9.0",
   "description": "성경 구절 입력 프로그램입니다.",
   "main": "main.js",
   "scripts": {
