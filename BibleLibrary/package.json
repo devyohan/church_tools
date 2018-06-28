@@ -1,8 +1,8 @@
 {
-  "name": "hash",
+  "name": "bible_library",
   "version": "1.0.0",
-  "description": "See the various hash values of entered text",
-  "repository": "electron/simple-samples",
+  "description": "성경 입력 도구",
+  "repository": "",
   "main": "app.js",
   "scripts": {
     "start": "electron app.js"

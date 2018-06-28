@@ -14,7 +14,7 @@ app.once('ready', () => {
     height: 600,
     // Set the default background color of the window to match the CSS
     // background color of the page, this prevents any white flickering
-    backgroundColor: "#D6D8DC",
+    backgroundColor: "#FFFFFF",
     // Don't show the window until it's ready, this prevents any white flickering
     show: false
   })
