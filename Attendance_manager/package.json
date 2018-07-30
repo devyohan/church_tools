@@ -1,0 +1,14 @@
+{
+  "name": "attendance_manager",
+  "version": "1.0.0",
+  "description": "교회 출석 체크 애플리케이션",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "박요한",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
